@@ -5,7 +5,8 @@ I am passionate about software building and testing. Always looking for a challe
 - 🔭 I’m currently working on SQA field 
 - 🌱 I’m currently learning Test Automation 
 - 💬 Ask me about SQA 
-- 📫 How to reach me: sakib75.cse@gmail.com 
+- 📫 How to reach me: sakib75.cse@gmail.com
+- 🏆 [Profile Summary](https://profile-summary-for-github.com/user/sakib-75)
 
 
 
