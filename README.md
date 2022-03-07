@@ -2,9 +2,9 @@
 
 I am passionate about software building and testing. Always looking for a challenging role which will allow me to enhance my skills and Knowledge. I am a quick learner and a team worker that gets the job done.
 
-- 🔭 I’m currently working on SQA field 
-- 🌱 I’m currently learning Test Automation 
-- 💬 Ask me about SQA 
+- 🔭 I’m currently working on SQA field
+- 🌱 I’m currently learning Test Automation
+- 💬 Ask me about Software Quality Assurance (SQA)
 - 📫 How to reach me: sakib75.cse@gmail.com
 - 🏆 [Profile Summary](https://profile-summary-for-github.com/user/sakib-75)
 
