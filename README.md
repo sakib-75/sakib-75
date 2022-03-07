@@ -2,7 +2,7 @@
 
 ### Hi there 👋, my name is Sakibul Islam
 
-I am passionate about software building and testing. Always looking for a challenging role which will allow me to enhance my skills and knowledge and try learning new things. I am a quick learner and a team worker that gets the job done.
+I am passionate about software building and testing. Always looking for a challenging task that will allow me to enhance my skills and knowledge and try learning new things. I am a quick learner and a team worker that gets the job done.
 
 - 🔭 I’m currently working on SQA field
 - 💬 Ask me about Software Quality Assurance (SQA)
