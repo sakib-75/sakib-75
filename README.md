@@ -13,8 +13,6 @@ I am passionate about software building and testing. I always try to learn new t
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sakib-75&show_icons=true&count_private=true)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sakib-75)
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakib-75&show_icons=true&locale=en&layout=compact" alt="sakib-75" /></p>
 
 
