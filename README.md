@@ -1,4 +1,3 @@
-![Profile views](https://gpvc.arturio.dev/sakib-75)
 
 ## 💫 About Me:
 ### Hi there 👋, my name is Sakibul Islam
